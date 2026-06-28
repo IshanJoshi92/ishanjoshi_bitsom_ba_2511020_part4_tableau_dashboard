@@ -32,4 +32,10 @@ The business is growing but **profit is concentrated in Technology**, while **Fu
 Dashboard shows **association, not causation**; minor missing values left as-is; no cost-to-serve/inventory/LTV data (returns proxied by rate); covers 2024–2025 only. Chart rationale in `outputs/chart_selection_justification.md`.
 
 ## 10. Screenshots
-In `screenshots/`: `full_dashboard.png`, `sales_trend_view.png`, `regional_performance_view.png`, `category_profitability_view.png`, `filter_interaction_view.png`.
+
+In `tableau/screenshots/`:
+- `Full Dashboard.png` — complete executive dashboard (KPI row + all 7 chart views)
+- `KPI Cards.png` — the 5 KPI cards (Sales, Profit, Margin, AOV, Return Rate)
+- `Map Filter action.png` — clicking a region on the map filters every view
+- `Category Filter.png` — category quick-filter interaction applied
+- `Discount vs Profit.png` — discount-vs-profit scatter with trend + break-even line
